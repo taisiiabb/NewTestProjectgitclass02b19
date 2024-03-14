@@ -1,4 +1,15 @@
 
-"git init" - initializes
+"git init" - initializes the git repository
 "git add ." -  adds the files to staging area
 "git commit -m "first commit""  -  moves it to repository ?
+"git remote add origin url" - connect the local repo with teh newly-created
+    online one
+"git remote -v" - shows the connections with outer repos
+"git branch -M main" - MUST BE DONE!! - will be discussed later
+    ot is for naming the branch and naming should be done
+git push -u origin main - push the code to the remote repo for the first time
+
+
+
+
+
