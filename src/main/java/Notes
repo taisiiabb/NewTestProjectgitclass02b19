@@ -1,4 +1,4 @@
 
-git init, initializes
+"git init" - initializes
 "git add ." -  adds the files to staging area
-git commit moves it to repository ?
+"git commit -m "first commit""  -  moves it to repository ?
